@@ -18,7 +18,7 @@ icon: 🫀 # emoji used as favicon (or provide image name in /assets/img/)
 apple_touch_icon:
 
 url: https://jesmondpoolie.github.io # the base hostname & protocol for your site
-baseurl: # Set to "" if using the root jesmondpoolie.github.io repository
+baseurl: "" # Set to "" if using the root jesmondpoolie.github.io repository
 last_updated: true # set to true to display last updated date in footer
 impressum_path:
 back_to_top: true
