@@ -274,8 +274,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories]
 
-display_tags: ["clinical-science", "qualitative-methods", "data-science", "python", "r"]
-display_categories: ["research", "tutorials"]
+display_tags: ["scoping-review", "patient-experience", "qualitative", "python", "r", "imaging"]
+display_categories: ["research", "methods", "data-science", "systems"]
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar (Configured for Lee Burgum)
