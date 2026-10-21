@@ -35,12 +35,11 @@ We follow the **JBI (Joanna Briggs Institute)** scoping review methodology and r
   - Computed Tomography (CT)
   - Diagnostic Ultrasound / Echocardiography
   - Nuclear Medicine / PET / SPECT
-  - Plain Film Radiography
 
 ---
 
 ### Current Progress
 
-Screening and data extraction are underway using **Covidence**, categorising findings to identify common experience touchpoints before, during, and after imaging procedures.
+Data extraction is underway using **Covidence**, categorising findings to identify common experience touchpoints before, during, and after imaging procedures.
 
 Read the full protocol, rationale, and search strings on [OSF](https://osf.io/qpj78/overview).
